@@ -1,12 +1,3 @@
-'''1. 🎓 Student Marks Analyzer
-👉 Features:
-marks input lo
-total, percentage nikaalo
-pass/fail decide karo
-topper find karo
-👉 Extra add karo:
-file me save karo'''
-
 n = int(input("Enter your marks:"))
 
 marks = []
